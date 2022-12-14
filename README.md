@@ -5,4 +5,4 @@ I put this name for the repo because again, I'm starting and I need to code some
 Here, you can find buttons effects, social buttons of other style, hover buttons effects, and other effects.
 
 ## Dump Effects
-- 01 : Social Buttons Effect
+- 01: Hover Button Effect: Using jQuery, CSS and HTML, I made the hover buttons effect;
