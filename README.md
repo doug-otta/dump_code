@@ -6,3 +6,4 @@ Here, you can find buttons effects, social buttons of other style, hover buttons
 
 ## Dump Effects
 - 01: Hover Button Effect: Using jQuery, CSS and HTML, I made the hover buttons effect;
+- 02: Animated Delete Button: When the button is clicked the animation happens! Make the clone and tell what you think!
